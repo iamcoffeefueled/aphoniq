@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1058207793696",
+    "project_id": "aphoniq-a-i-ia2t4u",
+    "storage_bucket": "aphoniq-a-i-ia2t4u.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058207793696:android:ee726115a724c1fcb6f245",
+        "android_client_info": {
+          "package_name": "com.fluttroile.ecomm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhJjZi9cjRnDpZXdNX1ekL2Gs_p3Ng_1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
